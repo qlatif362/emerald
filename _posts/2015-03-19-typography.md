@@ -1,5 +1,1 @@
----
-title: How to Make a Blog on Github
-published: true
----
-##Create a Account on **Github**
+<h1>Create a Blog on github</h1>
